@@ -1,0 +1,1601 @@
+student_id,class,examination,c_subject,marks
+231604,10th,Half-Yearly,Telugu,78
+231623,10th,Half-Yearly,Telugu,63
+231601,10th,Half-Yearly,Telugu,74
+231616,10th,Half-Yearly,Telugu,76
+231624,10th,Half-Yearly,Telugu,93
+231609,10th,Half-Yearly,Telugu,45
+231620,10th,Half-Yearly,Telugu,76
+231612,10th,Half-Yearly,Telugu,97
+231605,10th,Half-Yearly,Telugu,45
+231602,10th,Half-Yearly,Telugu,96
+231613,10th,Half-Yearly,Telugu,79
+231621,10th,Half-Yearly,Telugu,47
+231625,10th,Half-Yearly,Telugu,69
+231617,10th,Half-Yearly,Telugu,47
+231606,10th,Half-Yearly,Telugu,69
+231618,10th,Half-Yearly,Telugu,79
+231610,10th,Half-Yearly,Telugu,44
+231622,10th,Half-Yearly,Telugu,57
+231614,10th,Half-Yearly,Telugu,69
+231607,10th,Half-Yearly,Telugu,76
+231603,10th,Half-Yearly,Telugu,74
+231608,10th,Half-Yearly,Telugu,63
+231619,10th,Half-Yearly,Telugu,37
+231611,10th,Half-Yearly,Telugu,59
+231615,10th,Half-Yearly,Telugu,73
+230705,1st,Half-Yearly,Telugu,78
+230706,1st,Half-Yearly,Telugu,67
+230707,1st,Half-Yearly,Telugu,67
+230708,1st,Half-Yearly,Telugu,33
+230709,1st,Half-Yearly,Telugu,57
+230710,1st,Half-Yearly,Telugu,66
+230711,1st,Half-Yearly,Telugu,87
+230712,1st,Half-Yearly,Telugu,36
+230713,1st,Half-Yearly,Telugu,93
+230714,1st,Half-Yearly,Telugu,74
+230715,1st,Half-Yearly,Telugu,58
+230716,1st,Half-Yearly,Telugu,97
+230717,1st,Half-Yearly,Telugu,96
+230718,1st,Half-Yearly,Telugu,93
+230719,1st,Half-Yearly,Telugu,76
+230720,1st,Half-Yearly,Telugu,92
+230721,1st,Half-Yearly,Telugu,34
+230722,1st,Half-Yearly,Telugu,59
+230723,1st,Half-Yearly,Telugu,37
+230724,1st,Half-Yearly,Telugu,86
+230701,1st,Half-Yearly,Telugu,34
+230702,1st,Half-Yearly,Telugu,94
+230725,1st,Half-Yearly,Telugu,37
+230703,1st,Half-Yearly,Telugu,48
+230704,1st,Half-Yearly,Telugu,67
+230823,2nd,Half-Yearly,Telugu,63
+230801,2nd,Half-Yearly,Telugu,94
+230824,2nd,Half-Yearly,Telugu,79
+230825,2nd,Half-Yearly,Telugu,83
+230802,2nd,Half-Yearly,Telugu,47
+230803,2nd,Half-Yearly,Telugu,68
+230804,2nd,Half-Yearly,Telugu,87
+230805,2nd,Half-Yearly,Telugu,46
+230806,2nd,Half-Yearly,Telugu,76
+230807,2nd,Half-Yearly,Telugu,23
+230808,2nd,Half-Yearly,Telugu,47
+230809,2nd,Half-Yearly,Telugu,54
+230810,2nd,Half-Yearly,Telugu,78
+230811,2nd,Half-Yearly,Telugu,63
+230812,2nd,Half-Yearly,Telugu,74
+230813,2nd,Half-Yearly,Telugu,76
+230814,2nd,Half-Yearly,Telugu,93
+230815,2nd,Half-Yearly,Telugu,45
+230816,2nd,Half-Yearly,Telugu,76
+230817,2nd,Half-Yearly,Telugu,97
+230818,2nd,Half-Yearly,Telugu,45
+230819,2nd,Half-Yearly,Telugu,96
+230820,2nd,Half-Yearly,Telugu,79
+230821,2nd,Half-Yearly,Telugu,47
+230822,2nd,Half-Yearly,Telugu,69
+230923,3rd,Half-Yearly,Telugu,47
+230922,3rd,Half-Yearly,Telugu,69
+230921,3rd,Half-Yearly,Telugu,79
+230920,3rd,Half-Yearly,Telugu,44
+230919,3rd,Half-Yearly,Telugu,57
+230918,3rd,Half-Yearly,Telugu,69
+230917,3rd,Half-Yearly,Telugu,76
+230916,3rd,Half-Yearly,Telugu,74
+230915,3rd,Half-Yearly,Telugu,63
+230914,3rd,Half-Yearly,Telugu,37
+230913,3rd,Half-Yearly,Telugu,59
+230912,3rd,Half-Yearly,Telugu,73
+230911,3rd,Half-Yearly,Telugu,78
+230910,3rd,Half-Yearly,Telugu,67
+230909,3rd,Half-Yearly,Telugu,67
+230908,3rd,Half-Yearly,Telugu,33
+230907,3rd,Half-Yearly,Telugu,57
+230906,3rd,Half-Yearly,Telugu,66
+230905,3rd,Half-Yearly,Telugu,87
+230904,3rd,Half-Yearly,Telugu,36
+230925,3rd,Half-Yearly,Telugu,93
+230901,3rd,Half-Yearly,Telugu,74
+230903,3rd,Half-Yearly,Telugu,58
+230924,3rd,Half-Yearly,Telugu,97
+230902,3rd,Half-Yearly,Telugu,96
+231024,4th,Half-Yearly,Telugu,93
+231023,4th,Half-Yearly,Telugu,76
+231001,4th,Half-Yearly,Telugu,92
+231025,4th,Half-Yearly,Telugu,34
+231002,4th,Half-Yearly,Telugu,59
+231003,4th,Half-Yearly,Telugu,37
+231004,4th,Half-Yearly,Telugu,86
+231005,4th,Half-Yearly,Telugu,34
+231006,4th,Half-Yearly,Telugu,94
+231007,4th,Half-Yearly,Telugu,37
+231008,4th,Half-Yearly,Telugu,48
+231009,4th,Half-Yearly,Telugu,67
+231010,4th,Half-Yearly,Telugu,63
+231011,4th,Half-Yearly,Telugu,94
+231012,4th,Half-Yearly,Telugu,79
+231013,4th,Half-Yearly,Telugu,83
+231014,4th,Half-Yearly,Telugu,47
+231015,4th,Half-Yearly,Telugu,68
+231016,4th,Half-Yearly,Telugu,87
+231017,4th,Half-Yearly,Telugu,46
+231018,4th,Half-Yearly,Telugu,76
+231019,4th,Half-Yearly,Telugu,23
+231020,4th,Half-Yearly,Telugu,47
+231021,4th,Half-Yearly,Telugu,54
+231022,4th,Half-Yearly,Telugu,78
+231103,5th,Half-Yearly,Telugu,63
+231102,5th,Half-Yearly,Telugu,74
+231104,5th,Half-Yearly,Telugu,76
+231105,5th,Half-Yearly,Telugu,93
+231106,5th,Half-Yearly,Telugu,45
+231107,5th,Half-Yearly,Telugu,76
+231108,5th,Half-Yearly,Telugu,97
+231109,5th,Half-Yearly,Telugu,45
+231110,5th,Half-Yearly,Telugu,96
+231111,5th,Half-Yearly,Telugu,79
+231112,5th,Half-Yearly,Telugu,47
+231113,5th,Half-Yearly,Telugu,69
+231114,5th,Half-Yearly,Telugu,47
+231115,5th,Half-Yearly,Telugu,69
+231116,5th,Half-Yearly,Telugu,79
+231117,5th,Half-Yearly,Telugu,44
+231118,5th,Half-Yearly,Telugu,57
+231119,5th,Half-Yearly,Telugu,69
+231120,5th,Half-Yearly,Telugu,76
+231121,5th,Half-Yearly,Telugu,74
+231122,5th,Half-Yearly,Telugu,63
+231123,5th,Half-Yearly,Telugu,37
+231124,5th,Half-Yearly,Telugu,59
+231101,5th,Half-Yearly,Telugu,73
+231125,5th,Half-Yearly,Telugu,78
+231224,6th,Half-Yearly,Telugu,67
+231223,6th,Half-Yearly,Telugu,67
+231222,6th,Half-Yearly,Telugu,33
+231221,6th,Half-Yearly,Telugu,57
+231220,6th,Half-Yearly,Telugu,66
+231219,6th,Half-Yearly,Telugu,87
+231218,6th,Half-Yearly,Telugu,36
+231217,6th,Half-Yearly,Telugu,93
+231216,6th,Half-Yearly,Telugu,74
+231215,6th,Half-Yearly,Telugu,58
+231214,6th,Half-Yearly,Telugu,97
+231213,6th,Half-Yearly,Telugu,96
+231212,6th,Half-Yearly,Telugu,93
+231211,6th,Half-Yearly,Telugu,76
+231210,6th,Half-Yearly,Telugu,92
+231209,6th,Half-Yearly,Telugu,34
+231208,6th,Half-Yearly,Telugu,59
+231207,6th,Half-Yearly,Telugu,37
+231206,6th,Half-Yearly,Telugu,86
+231205,6th,Half-Yearly,Telugu,34
+231204,6th,Half-Yearly,Telugu,94
+231203,6th,Half-Yearly,Telugu,37
+231202,6th,Half-Yearly,Telugu,48
+231225,6th,Half-Yearly,Telugu,67
+231201,6th,Half-Yearly,Telugu,63
+231324,7th,Half-Yearly,Telugu,94
+231323,7th,Half-Yearly,Telugu,79
+231325,7th,Half-Yearly,Telugu,83
+231301,7th,Half-Yearly,Telugu,47
+231302,7th,Half-Yearly,Telugu,68
+231303,7th,Half-Yearly,Telugu,87
+231304,7th,Half-Yearly,Telugu,46
+231305,7th,Half-Yearly,Telugu,76
+231306,7th,Half-Yearly,Telugu,23
+231307,7th,Half-Yearly,Telugu,47
+231308,7th,Half-Yearly,Telugu,54
+231309,7th,Half-Yearly,Telugu,78
+231310,7th,Half-Yearly,Telugu,63
+231311,7th,Half-Yearly,Telugu,74
+231312,7th,Half-Yearly,Telugu,76
+231313,7th,Half-Yearly,Telugu,93
+231314,7th,Half-Yearly,Telugu,45
+231315,7th,Half-Yearly,Telugu,76
+231316,7th,Half-Yearly,Telugu,97
+231317,7th,Half-Yearly,Telugu,45
+231318,7th,Half-Yearly,Telugu,96
+231319,7th,Half-Yearly,Telugu,79
+231320,7th,Half-Yearly,Telugu,47
+231321,7th,Half-Yearly,Telugu,69
+231322,7th,Half-Yearly,Telugu,47
+231404,8th,Half-Yearly,Telugu,69
+231403,8th,Half-Yearly,Telugu,79
+231405,8th,Half-Yearly,Telugu,44
+231406,8th,Half-Yearly,Telugu,57
+231407,8th,Half-Yearly,Telugu,69
+231408,8th,Half-Yearly,Telugu,76
+231409,8th,Half-Yearly,Telugu,74
+231410,8th,Half-Yearly,Telugu,63
+231411,8th,Half-Yearly,Telugu,37
+231412,8th,Half-Yearly,Telugu,59
+231413,8th,Half-Yearly,Telugu,73
+231414,8th,Half-Yearly,Telugu,78
+231415,8th,Half-Yearly,Telugu,67
+231416,8th,Half-Yearly,Telugu,67
+231417,8th,Half-Yearly,Telugu,33
+231418,8th,Half-Yearly,Telugu,57
+231419,8th,Half-Yearly,Telugu,66
+231420,8th,Half-Yearly,Telugu,87
+231421,8th,Half-Yearly,Telugu,36
+231422,8th,Half-Yearly,Telugu,93
+231423,8th,Half-Yearly,Telugu,74
+231424,8th,Half-Yearly,Telugu,58
+231401,8th,Half-Yearly,Telugu,97
+231402,8th,Half-Yearly,Telugu,96
+231425,8th,Half-Yearly,Telugu,93
+231502,9th,Half-Yearly,Telugu,76
+231501,9th,Half-Yearly,Telugu,92
+231503,9th,Half-Yearly,Telugu,34
+231504,9th,Half-Yearly,Telugu,59
+231505,9th,Half-Yearly,Telugu,37
+231506,9th,Half-Yearly,Telugu,86
+231507,9th,Half-Yearly,Telugu,34
+231508,9th,Half-Yearly,Telugu,94
+231509,9th,Half-Yearly,Telugu,37
+231510,9th,Half-Yearly,Telugu,48
+231511,9th,Half-Yearly,Telugu,67
+231512,9th,Half-Yearly,Telugu,63
+231513,9th,Half-Yearly,Telugu,94
+231514,9th,Half-Yearly,Telugu,79
+231515,9th,Half-Yearly,Telugu,83
+231516,9th,Half-Yearly,Telugu,47
+231517,9th,Half-Yearly,Telugu,68
+231518,9th,Half-Yearly,Telugu,87
+231519,9th,Half-Yearly,Telugu,46
+231520,9th,Half-Yearly,Telugu,76
+231521,9th,Half-Yearly,Telugu,23
+231522,9th,Half-Yearly,Telugu,47
+231523,9th,Half-Yearly,Telugu,54
+231524,9th,Half-Yearly,Telugu,78
+231525,9th,Half-Yearly,Telugu,63
+231604,10th,Half-Yearly,Hindi,74
+231623,10th,Half-Yearly,Hindi,76
+231601,10th,Half-Yearly,Hindi,93
+231616,10th,Half-Yearly,Hindi,45
+231624,10th,Half-Yearly,Hindi,76
+231609,10th,Half-Yearly,Hindi,97
+231620,10th,Half-Yearly,Hindi,45
+231612,10th,Half-Yearly,Hindi,96
+231605,10th,Half-Yearly,Hindi,79
+231602,10th,Half-Yearly,Hindi,47
+231613,10th,Half-Yearly,Hindi,69
+231621,10th,Half-Yearly,Hindi,47
+231625,10th,Half-Yearly,Hindi,69
+231617,10th,Half-Yearly,Hindi,79
+231606,10th,Half-Yearly,Hindi,44
+231618,10th,Half-Yearly,Hindi,57
+231610,10th,Half-Yearly,Hindi,69
+231622,10th,Half-Yearly,Hindi,76
+231614,10th,Half-Yearly,Hindi,74
+231607,10th,Half-Yearly,Hindi,63
+231603,10th,Half-Yearly,Hindi,37
+231608,10th,Half-Yearly,Hindi,59
+231619,10th,Half-Yearly,Hindi,73
+231611,10th,Half-Yearly,Hindi,78
+231615,10th,Half-Yearly,Hindi,67
+230705,1st,Half-Yearly,Hindi,67
+230706,1st,Half-Yearly,Hindi,33
+230707,1st,Half-Yearly,Hindi,57
+230708,1st,Half-Yearly,Hindi,66
+230709,1st,Half-Yearly,Hindi,87
+230710,1st,Half-Yearly,Hindi,36
+230711,1st,Half-Yearly,Hindi,93
+230712,1st,Half-Yearly,Hindi,74
+230713,1st,Half-Yearly,Hindi,58
+230714,1st,Half-Yearly,Hindi,97
+230715,1st,Half-Yearly,Hindi,96
+230716,1st,Half-Yearly,Hindi,93
+230717,1st,Half-Yearly,Hindi,76
+230718,1st,Half-Yearly,Hindi,92
+230719,1st,Half-Yearly,Hindi,34
+230720,1st,Half-Yearly,Hindi,59
+230721,1st,Half-Yearly,Hindi,37
+230722,1st,Half-Yearly,Hindi,86
+230723,1st,Half-Yearly,Hindi,34
+230724,1st,Half-Yearly,Hindi,94
+230701,1st,Half-Yearly,Hindi,37
+230702,1st,Half-Yearly,Hindi,48
+230725,1st,Half-Yearly,Hindi,67
+230703,1st,Half-Yearly,Hindi,63
+230704,1st,Half-Yearly,Hindi,94
+230823,2nd,Half-Yearly,Hindi,79
+230801,2nd,Half-Yearly,Hindi,83
+230824,2nd,Half-Yearly,Hindi,47
+230825,2nd,Half-Yearly,Hindi,68
+230802,2nd,Half-Yearly,Hindi,87
+230803,2nd,Half-Yearly,Hindi,46
+230804,2nd,Half-Yearly,Hindi,76
+230805,2nd,Half-Yearly,Hindi,23
+230806,2nd,Half-Yearly,Hindi,47
+230807,2nd,Half-Yearly,Hindi,54
+230808,2nd,Half-Yearly,Hindi,78
+230809,2nd,Half-Yearly,Hindi,63
+230810,2nd,Half-Yearly,Hindi,74
+230811,2nd,Half-Yearly,Hindi,76
+230812,2nd,Half-Yearly,Hindi,93
+230813,2nd,Half-Yearly,Hindi,45
+230814,2nd,Half-Yearly,Hindi,76
+230815,2nd,Half-Yearly,Hindi,97
+230816,2nd,Half-Yearly,Hindi,45
+230817,2nd,Half-Yearly,Hindi,96
+230818,2nd,Half-Yearly,Hindi,79
+230819,2nd,Half-Yearly,Hindi,47
+230820,2nd,Half-Yearly,Hindi,69
+230821,2nd,Half-Yearly,Hindi,47
+230822,2nd,Half-Yearly,Hindi,69
+230923,3rd,Half-Yearly,Hindi,79
+230922,3rd,Half-Yearly,Hindi,44
+230921,3rd,Half-Yearly,Hindi,57
+230920,3rd,Half-Yearly,Hindi,69
+230919,3rd,Half-Yearly,Hindi,76
+230918,3rd,Half-Yearly,Hindi,74
+230917,3rd,Half-Yearly,Hindi,63
+230916,3rd,Half-Yearly,Hindi,37
+230915,3rd,Half-Yearly,Hindi,59
+230914,3rd,Half-Yearly,Hindi,73
+230913,3rd,Half-Yearly,Hindi,78
+230912,3rd,Half-Yearly,Hindi,67
+230911,3rd,Half-Yearly,Hindi,67
+230910,3rd,Half-Yearly,Hindi,33
+230909,3rd,Half-Yearly,Hindi,57
+230908,3rd,Half-Yearly,Hindi,66
+230907,3rd,Half-Yearly,Hindi,87
+230906,3rd,Half-Yearly,Hindi,36
+230905,3rd,Half-Yearly,Hindi,93
+230904,3rd,Half-Yearly,Hindi,74
+230925,3rd,Half-Yearly,Hindi,58
+230901,3rd,Half-Yearly,Hindi,97
+230903,3rd,Half-Yearly,Hindi,96
+230924,3rd,Half-Yearly,Hindi,93
+230902,3rd,Half-Yearly,Hindi,76
+231024,4th,Half-Yearly,Hindi,92
+231023,4th,Half-Yearly,Hindi,34
+231001,4th,Half-Yearly,Hindi,59
+231025,4th,Half-Yearly,Hindi,37
+231002,4th,Half-Yearly,Hindi,86
+231003,4th,Half-Yearly,Hindi,34
+231004,4th,Half-Yearly,Hindi,94
+231005,4th,Half-Yearly,Hindi,37
+231006,4th,Half-Yearly,Hindi,48
+231007,4th,Half-Yearly,Hindi,67
+231008,4th,Half-Yearly,Hindi,63
+231009,4th,Half-Yearly,Hindi,94
+231010,4th,Half-Yearly,Hindi,79
+231011,4th,Half-Yearly,Hindi,83
+231012,4th,Half-Yearly,Hindi,47
+231013,4th,Half-Yearly,Hindi,68
+231014,4th,Half-Yearly,Hindi,87
+231015,4th,Half-Yearly,Hindi,46
+231016,4th,Half-Yearly,Hindi,76
+231017,4th,Half-Yearly,Hindi,23
+231018,4th,Half-Yearly,Hindi,47
+231019,4th,Half-Yearly,Hindi,54
+231020,4th,Half-Yearly,Hindi,78
+231021,4th,Half-Yearly,Hindi,63
+231022,4th,Half-Yearly,Hindi,74
+231103,5th,Half-Yearly,Hindi,76
+231102,5th,Half-Yearly,Hindi,93
+231104,5th,Half-Yearly,Hindi,45
+231105,5th,Half-Yearly,Hindi,76
+231106,5th,Half-Yearly,Hindi,97
+231107,5th,Half-Yearly,Hindi,45
+231108,5th,Half-Yearly,Hindi,96
+231109,5th,Half-Yearly,Hindi,79
+231110,5th,Half-Yearly,Hindi,47
+231111,5th,Half-Yearly,Hindi,69
+231112,5th,Half-Yearly,Hindi,47
+231113,5th,Half-Yearly,Hindi,69
+231114,5th,Half-Yearly,Hindi,79
+231115,5th,Half-Yearly,Hindi,44
+231116,5th,Half-Yearly,Hindi,57
+231117,5th,Half-Yearly,Hindi,69
+231118,5th,Half-Yearly,Hindi,76
+231119,5th,Half-Yearly,Hindi,74
+231120,5th,Half-Yearly,Hindi,63
+231121,5th,Half-Yearly,Hindi,37
+231122,5th,Half-Yearly,Hindi,59
+231123,5th,Half-Yearly,Hindi,73
+231124,5th,Half-Yearly,Hindi,78
+231101,5th,Half-Yearly,Hindi,67
+231125,5th,Half-Yearly,Hindi,67
+231224,6th,Half-Yearly,Hindi,33
+231223,6th,Half-Yearly,Hindi,57
+231222,6th,Half-Yearly,Hindi,66
+231221,6th,Half-Yearly,Hindi,87
+231220,6th,Half-Yearly,Hindi,36
+231219,6th,Half-Yearly,Hindi,93
+231218,6th,Half-Yearly,Hindi,74
+231217,6th,Half-Yearly,Hindi,58
+231216,6th,Half-Yearly,Hindi,97
+231215,6th,Half-Yearly,Hindi,96
+231214,6th,Half-Yearly,Hindi,93
+231213,6th,Half-Yearly,Hindi,76
+231212,6th,Half-Yearly,Hindi,92
+231211,6th,Half-Yearly,Hindi,34
+231210,6th,Half-Yearly,Hindi,59
+231209,6th,Half-Yearly,Hindi,37
+231208,6th,Half-Yearly,Hindi,86
+231207,6th,Half-Yearly,Hindi,34
+231206,6th,Half-Yearly,Hindi,94
+231205,6th,Half-Yearly,Hindi,37
+231204,6th,Half-Yearly,Hindi,48
+231203,6th,Half-Yearly,Hindi,67
+231202,6th,Half-Yearly,Hindi,63
+231225,6th,Half-Yearly,Hindi,94
+231201,6th,Half-Yearly,Hindi,79
+231324,7th,Half-Yearly,Hindi,83
+231323,7th,Half-Yearly,Hindi,47
+231325,7th,Half-Yearly,Hindi,68
+231301,7th,Half-Yearly,Hindi,87
+231302,7th,Half-Yearly,Hindi,46
+231303,7th,Half-Yearly,Hindi,76
+231304,7th,Half-Yearly,Hindi,23
+231305,7th,Half-Yearly,Hindi,47
+231306,7th,Half-Yearly,Hindi,54
+231307,7th,Half-Yearly,Hindi,78
+231308,7th,Half-Yearly,Hindi,63
+231309,7th,Half-Yearly,Hindi,74
+231310,7th,Half-Yearly,Hindi,76
+231311,7th,Half-Yearly,Hindi,93
+231312,7th,Half-Yearly,Hindi,45
+231313,7th,Half-Yearly,Hindi,76
+231314,7th,Half-Yearly,Hindi,97
+231315,7th,Half-Yearly,Hindi,45
+231316,7th,Half-Yearly,Hindi,96
+231317,7th,Half-Yearly,Hindi,79
+231318,7th,Half-Yearly,Hindi,47
+231319,7th,Half-Yearly,Hindi,69
+231320,7th,Half-Yearly,Hindi,47
+231321,7th,Half-Yearly,Hindi,69
+231322,7th,Half-Yearly,Hindi,79
+231404,8th,Half-Yearly,Hindi,44
+231403,8th,Half-Yearly,Hindi,57
+231405,8th,Half-Yearly,Hindi,69
+231406,8th,Half-Yearly,Hindi,76
+231407,8th,Half-Yearly,Hindi,74
+231408,8th,Half-Yearly,Hindi,63
+231409,8th,Half-Yearly,Hindi,37
+231410,8th,Half-Yearly,Hindi,59
+231411,8th,Half-Yearly,Hindi,73
+231412,8th,Half-Yearly,Hindi,78
+231413,8th,Half-Yearly,Hindi,67
+231414,8th,Half-Yearly,Hindi,67
+231415,8th,Half-Yearly,Hindi,33
+231416,8th,Half-Yearly,Hindi,57
+231417,8th,Half-Yearly,Hindi,66
+231418,8th,Half-Yearly,Hindi,87
+231419,8th,Half-Yearly,Hindi,36
+231420,8th,Half-Yearly,Hindi,93
+231421,8th,Half-Yearly,Hindi,74
+231422,8th,Half-Yearly,Hindi,58
+231423,8th,Half-Yearly,Hindi,97
+231424,8th,Half-Yearly,Hindi,96
+231401,8th,Half-Yearly,Hindi,93
+231402,8th,Half-Yearly,Hindi,76
+231425,8th,Half-Yearly,Hindi,92
+231502,9th,Half-Yearly,Hindi,34
+231501,9th,Half-Yearly,Hindi,59
+231503,9th,Half-Yearly,Hindi,37
+231504,9th,Half-Yearly,Hindi,86
+231505,9th,Half-Yearly,Hindi,34
+231506,9th,Half-Yearly,Hindi,94
+231507,9th,Half-Yearly,Hindi,37
+231508,9th,Half-Yearly,Hindi,48
+231509,9th,Half-Yearly,Hindi,67
+231510,9th,Half-Yearly,Hindi,63
+231511,9th,Half-Yearly,Hindi,94
+231512,9th,Half-Yearly,Hindi,79
+231513,9th,Half-Yearly,Hindi,83
+231514,9th,Half-Yearly,Hindi,47
+231515,9th,Half-Yearly,Hindi,68
+231516,9th,Half-Yearly,Hindi,87
+231517,9th,Half-Yearly,Hindi,46
+231518,9th,Half-Yearly,Hindi,76
+231519,9th,Half-Yearly,Hindi,23
+231520,9th,Half-Yearly,Hindi,47
+231521,9th,Half-Yearly,Hindi,54
+231522,9th,Half-Yearly,Hindi,78
+231523,9th,Half-Yearly,Hindi,63
+231524,9th,Half-Yearly,Hindi,74
+231525,9th,Half-Yearly,Hindi,76
+231604,10th,Half-Yearly,English,93
+231623,10th,Half-Yearly,English,45
+231601,10th,Half-Yearly,English,76
+231616,10th,Half-Yearly,English,97
+231624,10th,Half-Yearly,English,45
+231609,10th,Half-Yearly,English,96
+231620,10th,Half-Yearly,English,79
+231612,10th,Half-Yearly,English,47
+231605,10th,Half-Yearly,English,69
+231602,10th,Half-Yearly,English,47
+231613,10th,Half-Yearly,English,69
+231621,10th,Half-Yearly,English,79
+231625,10th,Half-Yearly,English,44
+231617,10th,Half-Yearly,English,57
+231606,10th,Half-Yearly,English,69
+231618,10th,Half-Yearly,English,76
+231610,10th,Half-Yearly,English,74
+231622,10th,Half-Yearly,English,63
+231614,10th,Half-Yearly,English,37
+231607,10th,Half-Yearly,English,59
+231603,10th,Half-Yearly,English,73
+231608,10th,Half-Yearly,English,78
+231619,10th,Half-Yearly,English,67
+231611,10th,Half-Yearly,English,67
+231615,10th,Half-Yearly,English,33
+230705,1st,Half-Yearly,English,57
+230706,1st,Half-Yearly,English,66
+230707,1st,Half-Yearly,English,87
+230708,1st,Half-Yearly,English,36
+230709,1st,Half-Yearly,English,93
+230710,1st,Half-Yearly,English,74
+230711,1st,Half-Yearly,English,58
+230712,1st,Half-Yearly,English,97
+230713,1st,Half-Yearly,English,96
+230714,1st,Half-Yearly,English,93
+230715,1st,Half-Yearly,English,76
+230716,1st,Half-Yearly,English,92
+230717,1st,Half-Yearly,English,34
+230718,1st,Half-Yearly,English,59
+230719,1st,Half-Yearly,English,37
+230720,1st,Half-Yearly,English,86
+230721,1st,Half-Yearly,English,34
+230722,1st,Half-Yearly,English,94
+230723,1st,Half-Yearly,English,37
+230724,1st,Half-Yearly,English,48
+230701,1st,Half-Yearly,English,67
+230702,1st,Half-Yearly,English,63
+230725,1st,Half-Yearly,English,94
+230703,1st,Half-Yearly,English,79
+230704,1st,Half-Yearly,English,83
+230823,2nd,Half-Yearly,English,47
+230801,2nd,Half-Yearly,English,68
+230824,2nd,Half-Yearly,English,87
+230825,2nd,Half-Yearly,English,46
+230802,2nd,Half-Yearly,English,76
+230803,2nd,Half-Yearly,English,23
+230804,2nd,Half-Yearly,English,47
+230805,2nd,Half-Yearly,English,54
+230806,2nd,Half-Yearly,English,78
+230807,2nd,Half-Yearly,English,63
+230808,2nd,Half-Yearly,English,74
+230809,2nd,Half-Yearly,English,76
+230810,2nd,Half-Yearly,English,93
+230811,2nd,Half-Yearly,English,45
+230812,2nd,Half-Yearly,English,76
+230813,2nd,Half-Yearly,English,97
+230814,2nd,Half-Yearly,English,45
+230815,2nd,Half-Yearly,English,96
+230816,2nd,Half-Yearly,English,79
+230817,2nd,Half-Yearly,English,47
+230818,2nd,Half-Yearly,English,69
+230819,2nd,Half-Yearly,English,47
+230820,2nd,Half-Yearly,English,69
+230821,2nd,Half-Yearly,English,79
+230822,2nd,Half-Yearly,English,44
+230923,3rd,Half-Yearly,English,57
+230922,3rd,Half-Yearly,English,69
+230921,3rd,Half-Yearly,English,76
+230920,3rd,Half-Yearly,English,74
+230919,3rd,Half-Yearly,English,63
+230918,3rd,Half-Yearly,English,37
+230917,3rd,Half-Yearly,English,59
+230916,3rd,Half-Yearly,English,73
+230915,3rd,Half-Yearly,English,78
+230914,3rd,Half-Yearly,English,67
+230913,3rd,Half-Yearly,English,67
+230912,3rd,Half-Yearly,English,33
+230911,3rd,Half-Yearly,English,57
+230910,3rd,Half-Yearly,English,66
+230909,3rd,Half-Yearly,English,87
+230908,3rd,Half-Yearly,English,36
+230907,3rd,Half-Yearly,English,93
+230906,3rd,Half-Yearly,English,74
+230905,3rd,Half-Yearly,English,58
+230904,3rd,Half-Yearly,English,97
+230925,3rd,Half-Yearly,English,96
+230901,3rd,Half-Yearly,English,93
+230903,3rd,Half-Yearly,English,76
+230924,3rd,Half-Yearly,English,92
+230902,3rd,Half-Yearly,English,34
+231024,4th,Half-Yearly,English,59
+231023,4th,Half-Yearly,English,37
+231001,4th,Half-Yearly,English,86
+231025,4th,Half-Yearly,English,34
+231002,4th,Half-Yearly,English,94
+231003,4th,Half-Yearly,English,37
+231004,4th,Half-Yearly,English,48
+231005,4th,Half-Yearly,English,67
+231006,4th,Half-Yearly,English,63
+231007,4th,Half-Yearly,English,94
+231008,4th,Half-Yearly,English,79
+231009,4th,Half-Yearly,English,83
+231010,4th,Half-Yearly,English,47
+231011,4th,Half-Yearly,English,68
+231012,4th,Half-Yearly,English,87
+231013,4th,Half-Yearly,English,46
+231014,4th,Half-Yearly,English,76
+231015,4th,Half-Yearly,English,23
+231016,4th,Half-Yearly,English,47
+231017,4th,Half-Yearly,English,54
+231018,4th,Half-Yearly,English,78
+231019,4th,Half-Yearly,English,63
+231020,4th,Half-Yearly,English,74
+231021,4th,Half-Yearly,English,76
+231022,4th,Half-Yearly,English,93
+231103,5th,Half-Yearly,English,45
+231102,5th,Half-Yearly,English,76
+231104,5th,Half-Yearly,English,97
+231105,5th,Half-Yearly,English,45
+231106,5th,Half-Yearly,English,96
+231107,5th,Half-Yearly,English,79
+231108,5th,Half-Yearly,English,47
+231109,5th,Half-Yearly,English,69
+231110,5th,Half-Yearly,English,47
+231111,5th,Half-Yearly,English,69
+231112,5th,Half-Yearly,English,79
+231113,5th,Half-Yearly,English,44
+231114,5th,Half-Yearly,English,57
+231115,5th,Half-Yearly,English,69
+231116,5th,Half-Yearly,English,76
+231117,5th,Half-Yearly,English,74
+231118,5th,Half-Yearly,English,63
+231119,5th,Half-Yearly,English,37
+231120,5th,Half-Yearly,English,59
+231121,5th,Half-Yearly,English,73
+231122,5th,Half-Yearly,English,78
+231123,5th,Half-Yearly,English,67
+231124,5th,Half-Yearly,English,67
+231101,5th,Half-Yearly,English,33
+231125,5th,Half-Yearly,English,57
+231224,6th,Half-Yearly,English,66
+231223,6th,Half-Yearly,English,87
+231222,6th,Half-Yearly,English,36
+231221,6th,Half-Yearly,English,93
+231220,6th,Half-Yearly,English,74
+231219,6th,Half-Yearly,English,58
+231218,6th,Half-Yearly,English,97
+231217,6th,Half-Yearly,English,96
+231216,6th,Half-Yearly,English,93
+231215,6th,Half-Yearly,English,76
+231214,6th,Half-Yearly,English,92
+231213,6th,Half-Yearly,English,34
+231212,6th,Half-Yearly,English,59
+231211,6th,Half-Yearly,English,37
+231210,6th,Half-Yearly,English,86
+231209,6th,Half-Yearly,English,34
+231208,6th,Half-Yearly,English,94
+231207,6th,Half-Yearly,English,37
+231206,6th,Half-Yearly,English,48
+231205,6th,Half-Yearly,English,67
+231204,6th,Half-Yearly,English,63
+231203,6th,Half-Yearly,English,94
+231202,6th,Half-Yearly,English,79
+231225,6th,Half-Yearly,English,83
+231201,6th,Half-Yearly,English,47
+231324,7th,Half-Yearly,English,68
+231323,7th,Half-Yearly,English,87
+231325,7th,Half-Yearly,English,46
+231301,7th,Half-Yearly,English,76
+231302,7th,Half-Yearly,English,23
+231303,7th,Half-Yearly,English,47
+231304,7th,Half-Yearly,English,54
+231305,7th,Half-Yearly,English,78
+231306,7th,Half-Yearly,English,63
+231307,7th,Half-Yearly,English,74
+231308,7th,Half-Yearly,English,76
+231309,7th,Half-Yearly,English,93
+231310,7th,Half-Yearly,English,45
+231311,7th,Half-Yearly,English,76
+231312,7th,Half-Yearly,English,97
+231313,7th,Half-Yearly,English,45
+231314,7th,Half-Yearly,English,96
+231315,7th,Half-Yearly,English,79
+231316,7th,Half-Yearly,English,47
+231317,7th,Half-Yearly,English,69
+231318,7th,Half-Yearly,English,47
+231319,7th,Half-Yearly,English,69
+231320,7th,Half-Yearly,English,79
+231321,7th,Half-Yearly,English,44
+231322,7th,Half-Yearly,English,57
+231404,8th,Half-Yearly,English,69
+231403,8th,Half-Yearly,English,76
+231405,8th,Half-Yearly,English,74
+231406,8th,Half-Yearly,English,63
+231407,8th,Half-Yearly,English,37
+231408,8th,Half-Yearly,English,59
+231409,8th,Half-Yearly,English,73
+231410,8th,Half-Yearly,English,78
+231411,8th,Half-Yearly,English,67
+231412,8th,Half-Yearly,English,67
+231413,8th,Half-Yearly,English,33
+231414,8th,Half-Yearly,English,57
+231415,8th,Half-Yearly,English,66
+231416,8th,Half-Yearly,English,87
+231417,8th,Half-Yearly,English,36
+231418,8th,Half-Yearly,English,93
+231419,8th,Half-Yearly,English,74
+231420,8th,Half-Yearly,English,58
+231421,8th,Half-Yearly,English,97
+231422,8th,Half-Yearly,English,96
+231423,8th,Half-Yearly,English,93
+231424,8th,Half-Yearly,English,76
+231401,8th,Half-Yearly,English,92
+231402,8th,Half-Yearly,English,34
+231425,8th,Half-Yearly,English,59
+231502,9th,Half-Yearly,English,37
+231501,9th,Half-Yearly,English,86
+231503,9th,Half-Yearly,English,34
+231504,9th,Half-Yearly,English,94
+231505,9th,Half-Yearly,English,37
+231506,9th,Half-Yearly,English,48
+231507,9th,Half-Yearly,English,67
+231508,9th,Half-Yearly,English,63
+231509,9th,Half-Yearly,English,94
+231510,9th,Half-Yearly,English,79
+231511,9th,Half-Yearly,English,83
+231512,9th,Half-Yearly,English,47
+231513,9th,Half-Yearly,English,68
+231514,9th,Half-Yearly,English,87
+231515,9th,Half-Yearly,English,46
+231516,9th,Half-Yearly,English,76
+231517,9th,Half-Yearly,English,23
+231518,9th,Half-Yearly,English,47
+231519,9th,Half-Yearly,English,54
+231520,9th,Half-Yearly,English,78
+231521,9th,Half-Yearly,English,63
+231522,9th,Half-Yearly,English,74
+231523,9th,Half-Yearly,English,76
+231524,9th,Half-Yearly,English,93
+231525,9th,Half-Yearly,English,45
+231604,10th,Half-Yearly,Mathematics,76
+231623,10th,Half-Yearly,Mathematics,97
+231601,10th,Half-Yearly,Mathematics,45
+231616,10th,Half-Yearly,Mathematics,96
+231624,10th,Half-Yearly,Mathematics,79
+231609,10th,Half-Yearly,Mathematics,47
+231620,10th,Half-Yearly,Mathematics,69
+231612,10th,Half-Yearly,Mathematics,47
+231605,10th,Half-Yearly,Mathematics,69
+231602,10th,Half-Yearly,Mathematics,79
+231613,10th,Half-Yearly,Mathematics,44
+231621,10th,Half-Yearly,Mathematics,57
+231625,10th,Half-Yearly,Mathematics,69
+231617,10th,Half-Yearly,Mathematics,76
+231606,10th,Half-Yearly,Mathematics,74
+231618,10th,Half-Yearly,Mathematics,63
+231610,10th,Half-Yearly,Mathematics,37
+231622,10th,Half-Yearly,Mathematics,59
+231614,10th,Half-Yearly,Mathematics,73
+231607,10th,Half-Yearly,Mathematics,78
+231603,10th,Half-Yearly,Mathematics,67
+231608,10th,Half-Yearly,Mathematics,67
+231619,10th,Half-Yearly,Mathematics,33
+231611,10th,Half-Yearly,Mathematics,57
+231615,10th,Half-Yearly,Mathematics,66
+230705,1st,Half-Yearly,Mathematics,87
+230706,1st,Half-Yearly,Mathematics,36
+230707,1st,Half-Yearly,Mathematics,93
+230708,1st,Half-Yearly,Mathematics,74
+230709,1st,Half-Yearly,Mathematics,58
+230710,1st,Half-Yearly,Mathematics,97
+230711,1st,Half-Yearly,Mathematics,96
+230712,1st,Half-Yearly,Mathematics,93
+230713,1st,Half-Yearly,Mathematics,76
+230714,1st,Half-Yearly,Mathematics,92
+230715,1st,Half-Yearly,Mathematics,34
+230716,1st,Half-Yearly,Mathematics,59
+230717,1st,Half-Yearly,Mathematics,37
+230718,1st,Half-Yearly,Mathematics,86
+230719,1st,Half-Yearly,Mathematics,34
+230720,1st,Half-Yearly,Mathematics,94
+230721,1st,Half-Yearly,Mathematics,37
+230722,1st,Half-Yearly,Mathematics,48
+230723,1st,Half-Yearly,Mathematics,67
+230724,1st,Half-Yearly,Mathematics,63
+230701,1st,Half-Yearly,Mathematics,94
+230702,1st,Half-Yearly,Mathematics,79
+230725,1st,Half-Yearly,Mathematics,83
+230703,1st,Half-Yearly,Mathematics,47
+230704,1st,Half-Yearly,Mathematics,68
+230823,2nd,Half-Yearly,Mathematics,87
+230801,2nd,Half-Yearly,Mathematics,46
+230824,2nd,Half-Yearly,Mathematics,76
+230825,2nd,Half-Yearly,Mathematics,23
+230802,2nd,Half-Yearly,Mathematics,47
+230803,2nd,Half-Yearly,Mathematics,54
+230804,2nd,Half-Yearly,Mathematics,78
+230805,2nd,Half-Yearly,Mathematics,63
+230806,2nd,Half-Yearly,Mathematics,74
+230807,2nd,Half-Yearly,Mathematics,76
+230808,2nd,Half-Yearly,Mathematics,93
+230809,2nd,Half-Yearly,Mathematics,45
+230810,2nd,Half-Yearly,Mathematics,76
+230811,2nd,Half-Yearly,Mathematics,97
+230812,2nd,Half-Yearly,Mathematics,45
+230813,2nd,Half-Yearly,Mathematics,96
+230814,2nd,Half-Yearly,Mathematics,79
+230815,2nd,Half-Yearly,Mathematics,47
+230816,2nd,Half-Yearly,Mathematics,69
+230817,2nd,Half-Yearly,Mathematics,47
+230818,2nd,Half-Yearly,Mathematics,69
+230819,2nd,Half-Yearly,Mathematics,79
+230820,2nd,Half-Yearly,Mathematics,44
+230821,2nd,Half-Yearly,Mathematics,57
+230822,2nd,Half-Yearly,Mathematics,69
+230923,3rd,Half-Yearly,Mathematics,76
+230922,3rd,Half-Yearly,Mathematics,74
+230921,3rd,Half-Yearly,Mathematics,63
+230920,3rd,Half-Yearly,Mathematics,37
+230919,3rd,Half-Yearly,Mathematics,59
+230918,3rd,Half-Yearly,Mathematics,73
+230917,3rd,Half-Yearly,Mathematics,78
+230916,3rd,Half-Yearly,Mathematics,67
+230915,3rd,Half-Yearly,Mathematics,67
+230914,3rd,Half-Yearly,Mathematics,33
+230913,3rd,Half-Yearly,Mathematics,57
+230912,3rd,Half-Yearly,Mathematics,66
+230911,3rd,Half-Yearly,Mathematics,87
+230910,3rd,Half-Yearly,Mathematics,36
+230909,3rd,Half-Yearly,Mathematics,93
+230908,3rd,Half-Yearly,Mathematics,74
+230907,3rd,Half-Yearly,Mathematics,58
+230906,3rd,Half-Yearly,Mathematics,97
+230905,3rd,Half-Yearly,Mathematics,96
+230904,3rd,Half-Yearly,Mathematics,93
+230925,3rd,Half-Yearly,Mathematics,76
+230901,3rd,Half-Yearly,Mathematics,92
+230903,3rd,Half-Yearly,Mathematics,34
+230924,3rd,Half-Yearly,Mathematics,59
+230902,3rd,Half-Yearly,Mathematics,37
+231024,4th,Half-Yearly,Mathematics,86
+231023,4th,Half-Yearly,Mathematics,34
+231001,4th,Half-Yearly,Mathematics,94
+231025,4th,Half-Yearly,Mathematics,37
+231002,4th,Half-Yearly,Mathematics,48
+231003,4th,Half-Yearly,Mathematics,67
+231004,4th,Half-Yearly,Mathematics,63
+231005,4th,Half-Yearly,Mathematics,94
+231006,4th,Half-Yearly,Mathematics,79
+231007,4th,Half-Yearly,Mathematics,83
+231008,4th,Half-Yearly,Mathematics,47
+231009,4th,Half-Yearly,Mathematics,68
+231010,4th,Half-Yearly,Mathematics,87
+231011,4th,Half-Yearly,Mathematics,46
+231012,4th,Half-Yearly,Mathematics,76
+231013,4th,Half-Yearly,Mathematics,23
+231014,4th,Half-Yearly,Mathematics,47
+231015,4th,Half-Yearly,Mathematics,54
+231016,4th,Half-Yearly,Mathematics,78
+231017,4th,Half-Yearly,Mathematics,63
+231018,4th,Half-Yearly,Mathematics,74
+231019,4th,Half-Yearly,Mathematics,76
+231020,4th,Half-Yearly,Mathematics,93
+231021,4th,Half-Yearly,Mathematics,45
+231022,4th,Half-Yearly,Mathematics,76
+231103,5th,Half-Yearly,Mathematics,97
+231102,5th,Half-Yearly,Mathematics,45
+231104,5th,Half-Yearly,Mathematics,96
+231105,5th,Half-Yearly,Mathematics,79
+231106,5th,Half-Yearly,Mathematics,47
+231107,5th,Half-Yearly,Mathematics,69
+231108,5th,Half-Yearly,Mathematics,47
+231109,5th,Half-Yearly,Mathematics,69
+231110,5th,Half-Yearly,Mathematics,79
+231111,5th,Half-Yearly,Mathematics,44
+231112,5th,Half-Yearly,Mathematics,57
+231113,5th,Half-Yearly,Mathematics,69
+231114,5th,Half-Yearly,Mathematics,76
+231115,5th,Half-Yearly,Mathematics,74
+231116,5th,Half-Yearly,Mathematics,63
+231117,5th,Half-Yearly,Mathematics,37
+231118,5th,Half-Yearly,Mathematics,59
+231119,5th,Half-Yearly,Mathematics,73
+231120,5th,Half-Yearly,Mathematics,78
+231121,5th,Half-Yearly,Mathematics,67
+231122,5th,Half-Yearly,Mathematics,67
+231123,5th,Half-Yearly,Mathematics,33
+231124,5th,Half-Yearly,Mathematics,57
+231101,5th,Half-Yearly,Mathematics,66
+231125,5th,Half-Yearly,Mathematics,87
+231224,6th,Half-Yearly,Mathematics,36
+231223,6th,Half-Yearly,Mathematics,93
+231222,6th,Half-Yearly,Mathematics,74
+231221,6th,Half-Yearly,Mathematics,58
+231220,6th,Half-Yearly,Mathematics,97
+231219,6th,Half-Yearly,Mathematics,96
+231218,6th,Half-Yearly,Mathematics,93
+231217,6th,Half-Yearly,Mathematics,76
+231216,6th,Half-Yearly,Mathematics,92
+231215,6th,Half-Yearly,Mathematics,34
+231214,6th,Half-Yearly,Mathematics,59
+231213,6th,Half-Yearly,Mathematics,37
+231212,6th,Half-Yearly,Mathematics,86
+231211,6th,Half-Yearly,Mathematics,34
+231210,6th,Half-Yearly,Mathematics,94
+231209,6th,Half-Yearly,Mathematics,37
+231208,6th,Half-Yearly,Mathematics,48
+231207,6th,Half-Yearly,Mathematics,67
+231206,6th,Half-Yearly,Mathematics,63
+231205,6th,Half-Yearly,Mathematics,94
+231204,6th,Half-Yearly,Mathematics,79
+231203,6th,Half-Yearly,Mathematics,83
+231202,6th,Half-Yearly,Mathematics,47
+231225,6th,Half-Yearly,Mathematics,68
+231201,6th,Half-Yearly,Mathematics,87
+231324,7th,Half-Yearly,Mathematics,46
+231323,7th,Half-Yearly,Mathematics,76
+231325,7th,Half-Yearly,Mathematics,23
+231301,7th,Half-Yearly,Mathematics,47
+231302,7th,Half-Yearly,Mathematics,54
+231303,7th,Half-Yearly,Mathematics,78
+231304,7th,Half-Yearly,Mathematics,63
+231305,7th,Half-Yearly,Mathematics,74
+231306,7th,Half-Yearly,Mathematics,76
+231307,7th,Half-Yearly,Mathematics,93
+231308,7th,Half-Yearly,Mathematics,45
+231309,7th,Half-Yearly,Mathematics,76
+231310,7th,Half-Yearly,Mathematics,97
+231311,7th,Half-Yearly,Mathematics,45
+231312,7th,Half-Yearly,Mathematics,96
+231313,7th,Half-Yearly,Mathematics,79
+231314,7th,Half-Yearly,Mathematics,47
+231315,7th,Half-Yearly,Mathematics,69
+231316,7th,Half-Yearly,Mathematics,47
+231317,7th,Half-Yearly,Mathematics,69
+231318,7th,Half-Yearly,Mathematics,79
+231319,7th,Half-Yearly,Mathematics,44
+231320,7th,Half-Yearly,Mathematics,57
+231321,7th,Half-Yearly,Mathematics,69
+231322,7th,Half-Yearly,Mathematics,76
+231404,8th,Half-Yearly,Mathematics,74
+231403,8th,Half-Yearly,Mathematics,63
+231405,8th,Half-Yearly,Mathematics,37
+231406,8th,Half-Yearly,Mathematics,59
+231407,8th,Half-Yearly,Mathematics,73
+231408,8th,Half-Yearly,Mathematics,78
+231409,8th,Half-Yearly,Mathematics,67
+231410,8th,Half-Yearly,Mathematics,67
+231411,8th,Half-Yearly,Mathematics,33
+231412,8th,Half-Yearly,Mathematics,57
+231413,8th,Half-Yearly,Mathematics,66
+231414,8th,Half-Yearly,Mathematics,87
+231415,8th,Half-Yearly,Mathematics,36
+231416,8th,Half-Yearly,Mathematics,93
+231417,8th,Half-Yearly,Mathematics,74
+231418,8th,Half-Yearly,Mathematics,58
+231419,8th,Half-Yearly,Mathematics,97
+231420,8th,Half-Yearly,Mathematics,96
+231421,8th,Half-Yearly,Mathematics,93
+231422,8th,Half-Yearly,Mathematics,76
+231423,8th,Half-Yearly,Mathematics,92
+231424,8th,Half-Yearly,Mathematics,34
+231401,8th,Half-Yearly,Mathematics,59
+231402,8th,Half-Yearly,Mathematics,37
+231425,8th,Half-Yearly,Mathematics,86
+231502,9th,Half-Yearly,Mathematics,34
+231501,9th,Half-Yearly,Mathematics,94
+231503,9th,Half-Yearly,Mathematics,37
+231504,9th,Half-Yearly,Mathematics,48
+231505,9th,Half-Yearly,Mathematics,67
+231506,9th,Half-Yearly,Mathematics,63
+231507,9th,Half-Yearly,Mathematics,94
+231508,9th,Half-Yearly,Mathematics,79
+231509,9th,Half-Yearly,Mathematics,83
+231510,9th,Half-Yearly,Mathematics,47
+231511,9th,Half-Yearly,Mathematics,68
+231512,9th,Half-Yearly,Mathematics,87
+231513,9th,Half-Yearly,Mathematics,46
+231514,9th,Half-Yearly,Mathematics,76
+231515,9th,Half-Yearly,Mathematics,23
+231516,9th,Half-Yearly,Mathematics,47
+231517,9th,Half-Yearly,Mathematics,54
+231518,9th,Half-Yearly,Mathematics,78
+231519,9th,Half-Yearly,Mathematics,63
+231520,9th,Half-Yearly,Mathematics,74
+231521,9th,Half-Yearly,Mathematics,76
+231522,9th,Half-Yearly,Mathematics,93
+231523,9th,Half-Yearly,Mathematics,45
+231524,9th,Half-Yearly,Mathematics,76
+231525,9th,Half-Yearly,Mathematics,97
+231604,10th,Half-Yearly,Social Studies,45
+231623,10th,Half-Yearly,Social Studies,96
+231601,10th,Half-Yearly,Social Studies,79
+231616,10th,Half-Yearly,Social Studies,47
+231624,10th,Half-Yearly,Social Studies,69
+231609,10th,Half-Yearly,Social Studies,47
+231620,10th,Half-Yearly,Social Studies,69
+231612,10th,Half-Yearly,Social Studies,79
+231605,10th,Half-Yearly,Social Studies,44
+231602,10th,Half-Yearly,Social Studies,57
+231613,10th,Half-Yearly,Social Studies,69
+231621,10th,Half-Yearly,Social Studies,76
+231625,10th,Half-Yearly,Social Studies,74
+231617,10th,Half-Yearly,Social Studies,63
+231606,10th,Half-Yearly,Social Studies,37
+231618,10th,Half-Yearly,Social Studies,59
+231610,10th,Half-Yearly,Social Studies,73
+231622,10th,Half-Yearly,Social Studies,78
+231614,10th,Half-Yearly,Social Studies,67
+231607,10th,Half-Yearly,Social Studies,67
+231603,10th,Half-Yearly,Social Studies,33
+231608,10th,Half-Yearly,Social Studies,57
+231619,10th,Half-Yearly,Social Studies,66
+231611,10th,Half-Yearly,Social Studies,87
+231615,10th,Half-Yearly,Social Studies,36
+230705,1st,Half-Yearly,Social Studies,93
+230706,1st,Half-Yearly,Social Studies,74
+230707,1st,Half-Yearly,Social Studies,58
+230708,1st,Half-Yearly,Social Studies,97
+230709,1st,Half-Yearly,Social Studies,96
+230710,1st,Half-Yearly,Social Studies,93
+230711,1st,Half-Yearly,Social Studies,76
+230712,1st,Half-Yearly,Social Studies,92
+230713,1st,Half-Yearly,Social Studies,34
+230714,1st,Half-Yearly,Social Studies,59
+230715,1st,Half-Yearly,Social Studies,37
+230716,1st,Half-Yearly,Social Studies,86
+230717,1st,Half-Yearly,Social Studies,34
+230718,1st,Half-Yearly,Social Studies,94
+230719,1st,Half-Yearly,Social Studies,37
+230720,1st,Half-Yearly,Social Studies,48
+230721,1st,Half-Yearly,Social Studies,67
+230722,1st,Half-Yearly,Social Studies,63
+230723,1st,Half-Yearly,Social Studies,94
+230724,1st,Half-Yearly,Social Studies,79
+230701,1st,Half-Yearly,Social Studies,83
+230702,1st,Half-Yearly,Social Studies,47
+230725,1st,Half-Yearly,Social Studies,68
+230703,1st,Half-Yearly,Social Studies,87
+230704,1st,Half-Yearly,Social Studies,46
+230823,2nd,Half-Yearly,Social Studies,76
+230801,2nd,Half-Yearly,Social Studies,23
+230824,2nd,Half-Yearly,Social Studies,47
+230825,2nd,Half-Yearly,Social Studies,54
+230802,2nd,Half-Yearly,Social Studies,78
+230803,2nd,Half-Yearly,Social Studies,63
+230804,2nd,Half-Yearly,Social Studies,74
+230805,2nd,Half-Yearly,Social Studies,76
+230806,2nd,Half-Yearly,Social Studies,93
+230807,2nd,Half-Yearly,Social Studies,45
+230808,2nd,Half-Yearly,Social Studies,76
+230809,2nd,Half-Yearly,Social Studies,97
+230810,2nd,Half-Yearly,Social Studies,45
+230811,2nd,Half-Yearly,Social Studies,96
+230812,2nd,Half-Yearly,Social Studies,79
+230813,2nd,Half-Yearly,Social Studies,47
+230814,2nd,Half-Yearly,Social Studies,69
+230815,2nd,Half-Yearly,Social Studies,47
+230816,2nd,Half-Yearly,Social Studies,69
+230817,2nd,Half-Yearly,Social Studies,79
+230818,2nd,Half-Yearly,Social Studies,44
+230819,2nd,Half-Yearly,Social Studies,57
+230820,2nd,Half-Yearly,Social Studies,69
+230821,2nd,Half-Yearly,Social Studies,76
+230822,2nd,Half-Yearly,Social Studies,74
+230923,3rd,Half-Yearly,Social Studies,63
+230922,3rd,Half-Yearly,Social Studies,37
+230921,3rd,Half-Yearly,Social Studies,59
+230920,3rd,Half-Yearly,Social Studies,73
+230919,3rd,Half-Yearly,Social Studies,78
+230918,3rd,Half-Yearly,Social Studies,67
+230917,3rd,Half-Yearly,Social Studies,67
+230916,3rd,Half-Yearly,Social Studies,33
+230915,3rd,Half-Yearly,Social Studies,57
+230914,3rd,Half-Yearly,Social Studies,66
+230913,3rd,Half-Yearly,Social Studies,87
+230912,3rd,Half-Yearly,Social Studies,36
+230911,3rd,Half-Yearly,Social Studies,93
+230910,3rd,Half-Yearly,Social Studies,74
+230909,3rd,Half-Yearly,Social Studies,58
+230908,3rd,Half-Yearly,Social Studies,97
+230907,3rd,Half-Yearly,Social Studies,96
+230906,3rd,Half-Yearly,Social Studies,93
+230905,3rd,Half-Yearly,Social Studies,76
+230904,3rd,Half-Yearly,Social Studies,92
+230925,3rd,Half-Yearly,Social Studies,34
+230901,3rd,Half-Yearly,Social Studies,59
+230903,3rd,Half-Yearly,Social Studies,37
+230924,3rd,Half-Yearly,Social Studies,86
+230902,3rd,Half-Yearly,Social Studies,34
+231024,4th,Half-Yearly,Social Studies,94
+231023,4th,Half-Yearly,Social Studies,37
+231001,4th,Half-Yearly,Social Studies,48
+231025,4th,Half-Yearly,Social Studies,67
+231002,4th,Half-Yearly,Social Studies,63
+231003,4th,Half-Yearly,Social Studies,94
+231004,4th,Half-Yearly,Social Studies,79
+231005,4th,Half-Yearly,Social Studies,83
+231006,4th,Half-Yearly,Social Studies,47
+231007,4th,Half-Yearly,Social Studies,68
+231008,4th,Half-Yearly,Social Studies,87
+231009,4th,Half-Yearly,Social Studies,46
+231010,4th,Half-Yearly,Social Studies,76
+231011,4th,Half-Yearly,Social Studies,23
+231012,4th,Half-Yearly,Social Studies,47
+231013,4th,Half-Yearly,Social Studies,54
+231014,4th,Half-Yearly,Social Studies,78
+231015,4th,Half-Yearly,Social Studies,63
+231016,4th,Half-Yearly,Social Studies,74
+231017,4th,Half-Yearly,Social Studies,76
+231018,4th,Half-Yearly,Social Studies,93
+231019,4th,Half-Yearly,Social Studies,45
+231020,4th,Half-Yearly,Social Studies,76
+231021,4th,Half-Yearly,Social Studies,97
+231022,4th,Half-Yearly,Social Studies,45
+231103,5th,Half-Yearly,Social Studies,96
+231102,5th,Half-Yearly,Social Studies,79
+231104,5th,Half-Yearly,Social Studies,47
+231105,5th,Half-Yearly,Social Studies,69
+231106,5th,Half-Yearly,Social Studies,47
+231107,5th,Half-Yearly,Social Studies,69
+231108,5th,Half-Yearly,Social Studies,79
+231109,5th,Half-Yearly,Social Studies,44
+231110,5th,Half-Yearly,Social Studies,57
+231111,5th,Half-Yearly,Social Studies,69
+231112,5th,Half-Yearly,Social Studies,76
+231113,5th,Half-Yearly,Social Studies,74
+231114,5th,Half-Yearly,Social Studies,63
+231115,5th,Half-Yearly,Social Studies,37
+231116,5th,Half-Yearly,Social Studies,59
+231117,5th,Half-Yearly,Social Studies,73
+231118,5th,Half-Yearly,Social Studies,78
+231119,5th,Half-Yearly,Social Studies,67
+231120,5th,Half-Yearly,Social Studies,67
+231121,5th,Half-Yearly,Social Studies,33
+231122,5th,Half-Yearly,Social Studies,57
+231123,5th,Half-Yearly,Social Studies,66
+231124,5th,Half-Yearly,Social Studies,87
+231101,5th,Half-Yearly,Social Studies,36
+231125,5th,Half-Yearly,Social Studies,93
+231224,6th,Half-Yearly,Social Studies,74
+231223,6th,Half-Yearly,Social Studies,58
+231222,6th,Half-Yearly,Social Studies,97
+231221,6th,Half-Yearly,Social Studies,96
+231220,6th,Half-Yearly,Social Studies,93
+231219,6th,Half-Yearly,Social Studies,76
+231218,6th,Half-Yearly,Social Studies,92
+231217,6th,Half-Yearly,Social Studies,34
+231216,6th,Half-Yearly,Social Studies,59
+231215,6th,Half-Yearly,Social Studies,37
+231214,6th,Half-Yearly,Social Studies,86
+231213,6th,Half-Yearly,Social Studies,34
+231212,6th,Half-Yearly,Social Studies,94
+231211,6th,Half-Yearly,Social Studies,37
+231210,6th,Half-Yearly,Social Studies,48
+231209,6th,Half-Yearly,Social Studies,67
+231208,6th,Half-Yearly,Social Studies,63
+231207,6th,Half-Yearly,Social Studies,94
+231206,6th,Half-Yearly,Social Studies,79
+231205,6th,Half-Yearly,Social Studies,83
+231204,6th,Half-Yearly,Social Studies,47
+231203,6th,Half-Yearly,Social Studies,68
+231202,6th,Half-Yearly,Social Studies,87
+231225,6th,Half-Yearly,Social Studies,46
+231201,6th,Half-Yearly,Social Studies,76
+231324,7th,Half-Yearly,Social Studies,23
+231323,7th,Half-Yearly,Social Studies,47
+231325,7th,Half-Yearly,Social Studies,54
+231301,7th,Half-Yearly,Social Studies,78
+231302,7th,Half-Yearly,Social Studies,63
+231303,7th,Half-Yearly,Social Studies,74
+231304,7th,Half-Yearly,Social Studies,76
+231305,7th,Half-Yearly,Social Studies,93
+231306,7th,Half-Yearly,Social Studies,45
+231307,7th,Half-Yearly,Social Studies,76
+231308,7th,Half-Yearly,Social Studies,97
+231309,7th,Half-Yearly,Social Studies,45
+231310,7th,Half-Yearly,Social Studies,96
+231311,7th,Half-Yearly,Social Studies,79
+231312,7th,Half-Yearly,Social Studies,47
+231313,7th,Half-Yearly,Social Studies,69
+231314,7th,Half-Yearly,Social Studies,47
+231315,7th,Half-Yearly,Social Studies,69
+231316,7th,Half-Yearly,Social Studies,79
+231317,7th,Half-Yearly,Social Studies,44
+231318,7th,Half-Yearly,Social Studies,57
+231319,7th,Half-Yearly,Social Studies,69
+231320,7th,Half-Yearly,Social Studies,76
+231321,7th,Half-Yearly,Social Studies,74
+231322,7th,Half-Yearly,Social Studies,63
+231404,8th,Half-Yearly,Social Studies,37
+231403,8th,Half-Yearly,Social Studies,59
+231405,8th,Half-Yearly,Social Studies,73
+231406,8th,Half-Yearly,Social Studies,78
+231407,8th,Half-Yearly,Social Studies,67
+231408,8th,Half-Yearly,Social Studies,67
+231409,8th,Half-Yearly,Social Studies,33
+231410,8th,Half-Yearly,Social Studies,57
+231411,8th,Half-Yearly,Social Studies,66
+231412,8th,Half-Yearly,Social Studies,87
+231413,8th,Half-Yearly,Social Studies,36
+231414,8th,Half-Yearly,Social Studies,93
+231415,8th,Half-Yearly,Social Studies,74
+231416,8th,Half-Yearly,Social Studies,58
+231417,8th,Half-Yearly,Social Studies,97
+231418,8th,Half-Yearly,Social Studies,96
+231419,8th,Half-Yearly,Social Studies,93
+231420,8th,Half-Yearly,Social Studies,76
+231421,8th,Half-Yearly,Social Studies,92
+231422,8th,Half-Yearly,Social Studies,34
+231423,8th,Half-Yearly,Social Studies,59
+231424,8th,Half-Yearly,Social Studies,37
+231401,8th,Half-Yearly,Social Studies,86
+231402,8th,Half-Yearly,Social Studies,34
+231425,8th,Half-Yearly,Social Studies,94
+231502,9th,Half-Yearly,Social Studies,37
+231501,9th,Half-Yearly,Social Studies,48
+231503,9th,Half-Yearly,Social Studies,67
+231504,9th,Half-Yearly,Social Studies,63
+231505,9th,Half-Yearly,Social Studies,94
+231506,9th,Half-Yearly,Social Studies,79
+231507,9th,Half-Yearly,Social Studies,83
+231508,9th,Half-Yearly,Social Studies,47
+231509,9th,Half-Yearly,Social Studies,68
+231510,9th,Half-Yearly,Social Studies,87
+231511,9th,Half-Yearly,Social Studies,46
+231512,9th,Half-Yearly,Social Studies,76
+231513,9th,Half-Yearly,Social Studies,23
+231514,9th,Half-Yearly,Social Studies,47
+231515,9th,Half-Yearly,Social Studies,54
+231516,9th,Half-Yearly,Social Studies,78
+231517,9th,Half-Yearly,Social Studies,63
+231518,9th,Half-Yearly,Social Studies,74
+231519,9th,Half-Yearly,Social Studies,76
+231520,9th,Half-Yearly,Social Studies,93
+231521,9th,Half-Yearly,Social Studies,45
+231522,9th,Half-Yearly,Social Studies,76
+231523,9th,Half-Yearly,Social Studies,97
+231524,9th,Half-Yearly,Social Studies,45
+231525,9th,Half-Yearly,Social Studies,96
+231604,10th,Half-Yearly,Physics,79
+231623,10th,Half-Yearly,Physics,47
+231601,10th,Half-Yearly,Physics,69
+231616,10th,Half-Yearly,Physics,47
+231624,10th,Half-Yearly,Physics,69
+231609,10th,Half-Yearly,Physics,79
+231620,10th,Half-Yearly,Physics,44
+231612,10th,Half-Yearly,Physics,57
+231605,10th,Half-Yearly,Physics,69
+231602,10th,Half-Yearly,Physics,76
+231613,10th,Half-Yearly,Physics,74
+231621,10th,Half-Yearly,Physics,63
+231625,10th,Half-Yearly,Physics,37
+231617,10th,Half-Yearly,Physics,59
+231606,10th,Half-Yearly,Physics,73
+231618,10th,Half-Yearly,Physics,78
+231610,10th,Half-Yearly,Physics,67
+231622,10th,Half-Yearly,Physics,67
+231614,10th,Half-Yearly,Physics,33
+231607,10th,Half-Yearly,Physics,57
+231603,10th,Half-Yearly,Physics,66
+231608,10th,Half-Yearly,Physics,87
+231619,10th,Half-Yearly,Physics,36
+231611,10th,Half-Yearly,Physics,93
+231615,10th,Half-Yearly,Physics,74
+230705,1st,Half-Yearly,Science,58
+230706,1st,Half-Yearly,Science,97
+230707,1st,Half-Yearly,Science,96
+230708,1st,Half-Yearly,Science,93
+230709,1st,Half-Yearly,Science,76
+230710,1st,Half-Yearly,Science,92
+230711,1st,Half-Yearly,Science,34
+230712,1st,Half-Yearly,Science,59
+230713,1st,Half-Yearly,Science,37
+230714,1st,Half-Yearly,Science,86
+230715,1st,Half-Yearly,Science,34
+230716,1st,Half-Yearly,Science,94
+230717,1st,Half-Yearly,Science,37
+230718,1st,Half-Yearly,Science,48
+230719,1st,Half-Yearly,Science,67
+230720,1st,Half-Yearly,Science,63
+230721,1st,Half-Yearly,Science,94
+230722,1st,Half-Yearly,Science,79
+230723,1st,Half-Yearly,Science,83
+230724,1st,Half-Yearly,Science,47
+230701,1st,Half-Yearly,Science,68
+230702,1st,Half-Yearly,Science,87
+230725,1st,Half-Yearly,Science,46
+230703,1st,Half-Yearly,Science,76
+230704,1st,Half-Yearly,Science,23
+230823,2nd,Half-Yearly,Science,47
+230801,2nd,Half-Yearly,Science,78
+230824,2nd,Half-Yearly,Science,63
+230825,2nd,Half-Yearly,Science,74
+230802,2nd,Half-Yearly,Science,76
+230803,2nd,Half-Yearly,Science,93
+230804,2nd,Half-Yearly,Science,45
+230805,2nd,Half-Yearly,Science,76
+230806,2nd,Half-Yearly,Science,97
+230807,2nd,Half-Yearly,Science,45
+230808,2nd,Half-Yearly,Science,96
+230809,2nd,Half-Yearly,Science,79
+230810,2nd,Half-Yearly,Science,47
+230811,2nd,Half-Yearly,Science,69
+230812,2nd,Half-Yearly,Science,47
+230813,2nd,Half-Yearly,Science,69
+230814,2nd,Half-Yearly,Science,79
+230815,2nd,Half-Yearly,Science,44
+230816,2nd,Half-Yearly,Science,57
+230817,2nd,Half-Yearly,Science,69
+230818,2nd,Half-Yearly,Science,76
+230819,2nd,Half-Yearly,Science,74
+230820,2nd,Half-Yearly,Science,63
+230821,2nd,Half-Yearly,Science,37
+230822,2nd,Half-Yearly,Science,59
+230923,3rd,Half-Yearly,Science,73
+230922,3rd,Half-Yearly,Science,78
+230921,3rd,Half-Yearly,Science,67
+230920,3rd,Half-Yearly,Science,67
+230919,3rd,Half-Yearly,Science,33
+230918,3rd,Half-Yearly,Science,57
+230917,3rd,Half-Yearly,Science,66
+230916,3rd,Half-Yearly,Science,87
+230915,3rd,Half-Yearly,Science,36
+230914,3rd,Half-Yearly,Science,93
+230913,3rd,Half-Yearly,Science,74
+230912,3rd,Half-Yearly,Science,58
+230911,3rd,Half-Yearly,Science,97
+230910,3rd,Half-Yearly,Science,96
+230909,3rd,Half-Yearly,Science,93
+230908,3rd,Half-Yearly,Science,76
+230907,3rd,Half-Yearly,Science,92
+230906,3rd,Half-Yearly,Science,34
+230905,3rd,Half-Yearly,Science,59
+230904,3rd,Half-Yearly,Science,37
+230925,3rd,Half-Yearly,Science,86
+230901,3rd,Half-Yearly,Science,34
+230903,3rd,Half-Yearly,Science,94
+230924,3rd,Half-Yearly,Science,37
+230902,3rd,Half-Yearly,Science,48
+231024,4th,Half-Yearly,Science,67
+231023,4th,Half-Yearly,Science,63
+231001,4th,Half-Yearly,Science,94
+231025,4th,Half-Yearly,Science,79
+231002,4th,Half-Yearly,Science,83
+231003,4th,Half-Yearly,Science,47
+231004,4th,Half-Yearly,Science,68
+231005,4th,Half-Yearly,Science,87
+231006,4th,Half-Yearly,Science,46
+231007,4th,Half-Yearly,Science,76
+231008,4th,Half-Yearly,Science,23
+231009,4th,Half-Yearly,Science,47
+231010,4th,Half-Yearly,Science,54
+231011,4th,Half-Yearly,Science,78
+231012,4th,Half-Yearly,Science,63
+231013,4th,Half-Yearly,Science,74
+231014,4th,Half-Yearly,Science,76
+231015,4th,Half-Yearly,Science,93
+231016,4th,Half-Yearly,Science,45
+231017,4th,Half-Yearly,Science,76
+231018,4th,Half-Yearly,Science,97
+231019,4th,Half-Yearly,Science,45
+231020,4th,Half-Yearly,Science,96
+231021,4th,Half-Yearly,Science,79
+231022,4th,Half-Yearly,Science,47
+231103,5th,Half-Yearly,Science,69
+231102,5th,Half-Yearly,Science,47
+231104,5th,Half-Yearly,Science,69
+231105,5th,Half-Yearly,Science,79
+231106,5th,Half-Yearly,Science,44
+231107,5th,Half-Yearly,Science,57
+231108,5th,Half-Yearly,Science,69
+231109,5th,Half-Yearly,Science,76
+231110,5th,Half-Yearly,Science,74
+231111,5th,Half-Yearly,Science,63
+231112,5th,Half-Yearly,Science,37
+231113,5th,Half-Yearly,Science,59
+231114,5th,Half-Yearly,Science,73
+231115,5th,Half-Yearly,Science,78
+231116,5th,Half-Yearly,Science,67
+231117,5th,Half-Yearly,Science,67
+231118,5th,Half-Yearly,Science,33
+231119,5th,Half-Yearly,Science,57
+231120,5th,Half-Yearly,Science,66
+231121,5th,Half-Yearly,Science,87
+231122,5th,Half-Yearly,Science,36
+231123,5th,Half-Yearly,Science,93
+231124,5th,Half-Yearly,Science,74
+231101,5th,Half-Yearly,Science,58
+231125,5th,Half-Yearly,Science,97
+231224,6th,Half-Yearly,Science,96
+231223,6th,Half-Yearly,Science,93
+231222,6th,Half-Yearly,Science,76
+231221,6th,Half-Yearly,Science,92
+231220,6th,Half-Yearly,Science,34
+231219,6th,Half-Yearly,Science,59
+231218,6th,Half-Yearly,Science,37
+231217,6th,Half-Yearly,Science,86
+231216,6th,Half-Yearly,Science,34
+231215,6th,Half-Yearly,Science,94
+231214,6th,Half-Yearly,Science,37
+231213,6th,Half-Yearly,Science,48
+231212,6th,Half-Yearly,Science,67
+231211,6th,Half-Yearly,Science,63
+231210,6th,Half-Yearly,Science,94
+231209,6th,Half-Yearly,Science,79
+231208,6th,Half-Yearly,Science,83
+231207,6th,Half-Yearly,Science,47
+231206,6th,Half-Yearly,Science,68
+231205,6th,Half-Yearly,Science,87
+231204,6th,Half-Yearly,Science,46
+231203,6th,Half-Yearly,Science,76
+231202,6th,Half-Yearly,Science,23
+231225,6th,Half-Yearly,Science,47
+231201,6th,Half-Yearly,Science,54
+231324,7th,Half-Yearly,Physics,78
+231323,7th,Half-Yearly,Physics,63
+231325,7th,Half-Yearly,Physics,74
+231301,7th,Half-Yearly,Physics,76
+231302,7th,Half-Yearly,Physics,93
+231303,7th,Half-Yearly,Physics,45
+231304,7th,Half-Yearly,Physics,76
+231305,7th,Half-Yearly,Physics,97
+231306,7th,Half-Yearly,Physics,45
+231307,7th,Half-Yearly,Physics,96
+231308,7th,Half-Yearly,Physics,79
+231309,7th,Half-Yearly,Physics,47
+231310,7th,Half-Yearly,Physics,69
+231311,7th,Half-Yearly,Physics,47
+231312,7th,Half-Yearly,Physics,69
+231313,7th,Half-Yearly,Physics,79
+231314,7th,Half-Yearly,Physics,44
+231315,7th,Half-Yearly,Physics,57
+231316,7th,Half-Yearly,Physics,69
+231317,7th,Half-Yearly,Physics,76
+231318,7th,Half-Yearly,Physics,74
+231319,7th,Half-Yearly,Physics,63
+231320,7th,Half-Yearly,Physics,37
+231321,7th,Half-Yearly,Physics,59
+231322,7th,Half-Yearly,Physics,73
+231404,8th,Half-Yearly,Physics,78
+231403,8th,Half-Yearly,Physics,67
+231405,8th,Half-Yearly,Physics,67
+231406,8th,Half-Yearly,Physics,33
+231407,8th,Half-Yearly,Physics,57
+231408,8th,Half-Yearly,Physics,66
+231409,8th,Half-Yearly,Physics,87
+231410,8th,Half-Yearly,Physics,36
+231411,8th,Half-Yearly,Physics,93
+231412,8th,Half-Yearly,Physics,74
+231413,8th,Half-Yearly,Physics,58
+231414,8th,Half-Yearly,Physics,97
+231415,8th,Half-Yearly,Physics,96
+231416,8th,Half-Yearly,Physics,93
+231417,8th,Half-Yearly,Physics,76
+231418,8th,Half-Yearly,Physics,92
+231419,8th,Half-Yearly,Physics,34
+231420,8th,Half-Yearly,Physics,59
+231421,8th,Half-Yearly,Physics,37
+231422,8th,Half-Yearly,Physics,86
+231423,8th,Half-Yearly,Physics,34
+231424,8th,Half-Yearly,Physics,94
+231401,8th,Half-Yearly,Physics,37
+231402,8th,Half-Yearly,Physics,48
+231425,8th,Half-Yearly,Physics,67
+231502,9th,Half-Yearly,Physics,63
+231501,9th,Half-Yearly,Physics,94
+231503,9th,Half-Yearly,Physics,79
+231504,9th,Half-Yearly,Physics,83
+231505,9th,Half-Yearly,Physics,47
+231506,9th,Half-Yearly,Physics,68
+231507,9th,Half-Yearly,Physics,87
+231508,9th,Half-Yearly,Physics,46
+231509,9th,Half-Yearly,Physics,76
+231510,9th,Half-Yearly,Physics,23
+231511,9th,Half-Yearly,Physics,47
+231512,9th,Half-Yearly,Physics,54
+231513,9th,Half-Yearly,Physics,78
+231514,9th,Half-Yearly,Physics,63
+231515,9th,Half-Yearly,Physics,74
+231516,9th,Half-Yearly,Physics,76
+231517,9th,Half-Yearly,Physics,93
+231518,9th,Half-Yearly,Physics,45
+231519,9th,Half-Yearly,Physics,76
+231520,9th,Half-Yearly,Physics,97
+231521,9th,Half-Yearly,Physics,45
+231522,9th,Half-Yearly,Physics,96
+231523,9th,Half-Yearly,Physics,79
+231524,9th,Half-Yearly,Physics,47
+231525,9th,Half-Yearly,Physics,69
+231604,10th,Half-Yearly,Biology,47
+231623,10th,Half-Yearly,Biology,69
+231601,10th,Half-Yearly,Biology,79
+231616,10th,Half-Yearly,Biology,44
+231624,10th,Half-Yearly,Biology,57
+231609,10th,Half-Yearly,Biology,69
+231620,10th,Half-Yearly,Biology,76
+231612,10th,Half-Yearly,Biology,74
+231605,10th,Half-Yearly,Biology,63
+231602,10th,Half-Yearly,Biology,37
+231613,10th,Half-Yearly,Biology,59
+231621,10th,Half-Yearly,Biology,73
+231625,10th,Half-Yearly,Biology,78
+231617,10th,Half-Yearly,Biology,67
+231606,10th,Half-Yearly,Biology,67
+231618,10th,Half-Yearly,Biology,33
+231610,10th,Half-Yearly,Biology,57
+231622,10th,Half-Yearly,Biology,66
+231614,10th,Half-Yearly,Biology,87
+231607,10th,Half-Yearly,Biology,36
+231603,10th,Half-Yearly,Biology,93
+231608,10th,Half-Yearly,Biology,74
+231619,10th,Half-Yearly,Biology,58
+231611,10th,Half-Yearly,Biology,97
+231615,10th,Half-Yearly,Biology,96
+231324,7th,Half-Yearly,Biology,93
+231323,7th,Half-Yearly,Biology,76
+231325,7th,Half-Yearly,Biology,92
+231301,7th,Half-Yearly,Biology,34
+231302,7th,Half-Yearly,Biology,59
+231303,7th,Half-Yearly,Biology,37
+231304,7th,Half-Yearly,Biology,86
+231305,7th,Half-Yearly,Biology,34
+231306,7th,Half-Yearly,Biology,94
+231307,7th,Half-Yearly,Biology,37
+231308,7th,Half-Yearly,Biology,48
+231309,7th,Half-Yearly,Biology,67
+231310,7th,Half-Yearly,Biology,63
+231311,7th,Half-Yearly,Biology,94
+231312,7th,Half-Yearly,Biology,79
+231313,7th,Half-Yearly,Biology,83
+231314,7th,Half-Yearly,Biology,47
+231315,7th,Half-Yearly,Biology,68
+231316,7th,Half-Yearly,Biology,87
+231317,7th,Half-Yearly,Biology,46
+231318,7th,Half-Yearly,Biology,76
+231319,7th,Half-Yearly,Biology,23
+231320,7th,Half-Yearly,Biology,47
+231321,7th,Half-Yearly,Biology,54
+231322,7th,Half-Yearly,Biology,78
+231404,8th,Half-Yearly,Biology,63
+231403,8th,Half-Yearly,Biology,74
+231405,8th,Half-Yearly,Biology,76
+231406,8th,Half-Yearly,Biology,93
+231407,8th,Half-Yearly,Biology,45
+231408,8th,Half-Yearly,Biology,76
+231409,8th,Half-Yearly,Biology,97
+231410,8th,Half-Yearly,Biology,45
+231411,8th,Half-Yearly,Biology,96
+231412,8th,Half-Yearly,Biology,79
+231413,8th,Half-Yearly,Biology,47
+231414,8th,Half-Yearly,Biology,69
+231415,8th,Half-Yearly,Biology,47
+231416,8th,Half-Yearly,Biology,69
+231417,8th,Half-Yearly,Biology,79
+231418,8th,Half-Yearly,Biology,44
+231419,8th,Half-Yearly,Biology,57
+231420,8th,Half-Yearly,Biology,69
+231421,8th,Half-Yearly,Biology,76
+231422,8th,Half-Yearly,Biology,74
+231423,8th,Half-Yearly,Biology,63
+231424,8th,Half-Yearly,Biology,37
+231401,8th,Half-Yearly,Biology,59
+231402,8th,Half-Yearly,Biology,73
+231425,8th,Half-Yearly,Biology,78
+231502,9th,Half-Yearly,Biology,67
+231501,9th,Half-Yearly,Biology,67
+231503,9th,Half-Yearly,Biology,33
+231504,9th,Half-Yearly,Biology,57
+231505,9th,Half-Yearly,Biology,66
+231506,9th,Half-Yearly,Biology,87
+231507,9th,Half-Yearly,Biology,36
+231508,9th,Half-Yearly,Biology,93
+231509,9th,Half-Yearly,Biology,74
+231510,9th,Half-Yearly,Biology,58
+231511,9th,Half-Yearly,Biology,97
+231512,9th,Half-Yearly,Biology,96
+231513,9th,Half-Yearly,Biology,93
+231514,9th,Half-Yearly,Biology,76
+231515,9th,Half-Yearly,Biology,92
+231516,9th,Half-Yearly,Biology,34
+231517,9th,Half-Yearly,Biology,59
+231518,9th,Half-Yearly,Biology,37
+231519,9th,Half-Yearly,Biology,86
+231520,9th,Half-Yearly,Biology,34
+231521,9th,Half-Yearly,Biology,94
+231522,9th,Half-Yearly,Biology,37
+231523,9th,Half-Yearly,Biology,48
+231524,9th,Half-Yearly,Biology,67
+231525,9th,Half-Yearly,Biology,63
